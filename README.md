@@ -2,6 +2,17 @@
 
 #
 
+### Funcionalidades
+
+#
+
+- Criar tarefa
+  <img src="./public/react2.png">
+- Editar tarefa
+  <img src="./public/react_edit.png">
+- Excluir tarefa
+  <img src="./public/react1.png">
+
 #
 
 <br />
@@ -22,6 +33,7 @@ Tecnologias usadas.
 #
 
 - Github
+- Netilify
 
   <br />
   <br />
@@ -36,14 +48,6 @@ Tecnologias usadas.
 <br />
 <br />
 
-## Funcionalidades
-
-#
-
-- Criar tarefa
-- Editar tarefa
-- Excluir tarefa
-
   <br />
   <br />
 
@@ -51,9 +55,6 @@ Tecnologias usadas.
 
 Alisson Lopes
 
-<br />
-<br />
-<br />
 <br />
 
 #
